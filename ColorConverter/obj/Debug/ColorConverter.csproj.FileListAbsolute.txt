@@ -14,3 +14,4 @@ C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\bin\Debug\ColorConv
 C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.Form1.resources
 C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.Properties.Resources.resources
 C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.csproj.GenerateResource.Cache
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.csprojResolveAssemblyReference.cache

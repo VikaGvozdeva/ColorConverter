@@ -89,7 +89,11 @@ namespace ColorConverter
             {
 
                 Bitmap tmp = image.Pop();
-                image1.Push(tmp);
+                if (image.Count==0)
+                {
+                    image.Push(tmp);
+                }
+                //image1.Push(tmp);
                 pictureBox1.Image = tmp;
 
             }
