@@ -1,0 +1,16 @@
+C:\Users\Vika\Documents\Visual Studio 2015\Projects\ColorConverter\ColorConverter\bin\Debug\ColorConverter.exe.config
+C:\Users\Vika\Documents\Visual Studio 2015\Projects\ColorConverter\ColorConverter\bin\Debug\ColorConverter.exe
+C:\Users\Vika\Documents\Visual Studio 2015\Projects\ColorConverter\ColorConverter\bin\Debug\ColorConverter.pdb
+C:\Users\Vika\Documents\Visual Studio 2015\Projects\ColorConverter\ColorConverter\obj\Debug\ColorConverter.Form1.resources
+C:\Users\Vika\Documents\Visual Studio 2015\Projects\ColorConverter\ColorConverter\obj\Debug\ColorConverter.Properties.Resources.resources
+C:\Users\Vika\Documents\Visual Studio 2015\Projects\ColorConverter\ColorConverter\obj\Debug\ColorConverter.csproj.GenerateResource.Cache
+C:\Users\Vika\Documents\Visual Studio 2015\Projects\ColorConverter\ColorConverter\obj\Debug\ColorConverter.exe
+C:\Users\Vika\Documents\Visual Studio 2015\Projects\ColorConverter\ColorConverter\obj\Debug\ColorConverter.pdb
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\bin\Debug\ColorConverter.exe.config
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.exe
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.pdb
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\bin\Debug\ColorConverter.exe
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\bin\Debug\ColorConverter.pdb
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.Form1.resources
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.Properties.Resources.resources
+C:\Users\Vika\Documents\GitHub\ColorConverter\ColorConverter\obj\Debug\ColorConverter.csproj.GenerateResource.Cache
