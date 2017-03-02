@@ -14,6 +14,7 @@ namespace ColorConverter
     {
     
         ColorConvert cc = new ColorConvert();
+        //lets check
         int check = 1;
         Stack<Bitmap> image = new Stack<Bitmap>();
         Stack<Bitmap> image1 = new Stack<Bitmap>();
